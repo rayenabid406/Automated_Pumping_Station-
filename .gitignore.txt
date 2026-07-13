@@ -1,0 +1,12 @@
+# TIA Portal temporary and local files
+AppData/
+UserFiles/
+Logs/
+Compile/
+IM/
+*.log
+*.tmp
+*~
+
+# Factory I/O local auto-saves
+*.bak
