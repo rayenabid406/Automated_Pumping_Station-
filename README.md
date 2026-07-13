@@ -10,7 +10,7 @@ A ladder-logic (LAD) tank/pump control system built in Siemens TIA Portal, simul
 
 > Internally the TIA Portal project is named `Automated_Pumping_Station` — this README describes the same project.
 <video src="assets/factoryio.mp4" width="100%" autoplay loop muted playsinline></video>
-
+<video src="https://github.com/rayenabid406/Automated_Pumping_Station-/releases/download/v1.0.0/factoryio.mp4" width="100%" autoplay loop muted playsinline></video>
 ---
 
 ## Overview
