@@ -9,6 +9,7 @@
 A ladder-logic (LAD) tank/pump control system built in Siemens TIA Portal, simulated against a **Factory I/O** 3D plant via **S7‑PLCSIM Advanced**. The controller reads a level/pressure transmitter, computes a proportional correction against an operator setpoint, and drives a fill process through a pump — with soft-start ramping, dry-run protection, high-level fault latching, and a manual/auto output mode switch.
 
 > Internally the TIA Portal project is named `Automated_Pumping_Station` — this README describes the same project.
+<video src="assets/factoryio.mp4" width="100%" autoplay loop muted playsinline></video>
 
 ---
 
